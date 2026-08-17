@@ -1,0 +1,8 @@
+torch>=2.4
+torchvision>=0.19
+numpy>=1.26
+imageio>=2.34
+tifffile>=2024.5
+Pillow>=10.0
+lpips>=0.1.4
+pyyaml>=6.0
