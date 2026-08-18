@@ -1,0 +1,8 @@
+torch==2.10.0
+torchvision==0.20.0
+numpy==1.26.4
+Pillow==10.3.0
+tifffile==2024.5.22
+imageio==2.34.1
+lpips==0.1.4
+pyyaml==6.0.1
